@@ -1,0 +1,10 @@
+#!wing
+#!version=5.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('term_sentiment.py'),
+                  loc('tweet_sentiment.py'),
+                  loc('twitterstream.py')]
+proj.file-type = 'shared'
